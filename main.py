@@ -1,3 +1,7 @@
+# Jaden Russell
+# 11/16/2022
+# SDEV 300
+
 """This program loads the user specified file data and displays the
 statistics of the user specified variable from the file """
 import statistics
